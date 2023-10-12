@@ -1,6 +1,6 @@
-package repository;
+package com.wcs.library.repository;
 
-import entity.Book;
+import com.wcs.library.entity.Book;
 
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;

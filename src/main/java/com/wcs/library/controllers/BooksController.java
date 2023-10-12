@@ -1,10 +1,10 @@
-package controllers;
+package com.wcs.library.controllers;
 
-import entity.Book;
+import com.wcs.library.entity.Book;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import repository.BookRepository;
+import com.wcs.library.repository.BookRepository;
 import java.util.List;
 import java.util.Optional;
 

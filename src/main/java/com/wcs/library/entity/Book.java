@@ -1,4 +1,4 @@
-package entity;
+package com.wcs.library.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
